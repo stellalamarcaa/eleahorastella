@@ -5,7 +5,7 @@ export default config({
     kind: "cloud",
   },
   cloud: {
-    project: "eleahora/eleahora",
+    project: "eleahora-stella/eleahorastella",
   },
   ui: {
     brand: {
